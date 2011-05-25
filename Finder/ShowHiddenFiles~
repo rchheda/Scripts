@@ -1,0 +1,15 @@
+I know I've uploaded it as a .zip file. Which means half of you'll
+will not trust it and not download it and unzip it thinking its some
+virus from the internet. I know I wouldn't, but for the other half of
+you, this is what you'll need to do:
+
+- Your Mac needs to have the Automator Application (which most Mac's
+  have by default, but just double checking)
+- Make a folder called Scripts
+- Unzip this file in that folder.
+- Open your Spotlight in your Mac and search for "ShowHiddenFiles"
+- Hit enter 
+
+
+Its that simple to make showing of hidden files now in the Mac.
+Let me know of any bugs or issue, would love some feedback.  
