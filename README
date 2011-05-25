@@ -1,0 +1,15 @@
+This is a trial project containing scripts for everyday things like 
+ - Showing Hidden Files in the Finder
+ - Hiding Hidden Files in the Finder
+
+These scripts are meant to be run through the Spotlight, so that you
+search for them and hit enter and the Mac automatically executes them
+for you. 
+
+I am also looking into ways faster than that to execute some of these
+things. 
+
+I am also trying to include scripts useful on Windows. I hope to
+someday have a full fledged library of scripts, so that every task is
+a click away. With all the time that we save, we can go snowboarding
+or hiking !!
